@@ -14,6 +14,8 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
+    "date-fns": "^2.30.0",
+    "date-fns-tz": "^2.0.0",
     "dayjs": "^1.11.10",
     "luxon": "^3.4.4"
   }
